@@ -52,6 +52,7 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+
 **/Properties/launchSettings.json
 
 # StyleCop
@@ -84,6 +85,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.sln
 
 # Chutzpah Test files
 _Chutzpah*
